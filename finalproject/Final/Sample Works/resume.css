@@ -1,0 +1,24 @@
+@charset "UTF-8"
+/* CSS Document */
+
+body{
+    margin: 10%;
+    margin-top: 5%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: small
+}
+h3{
+    text-transform:uppercase;
+    color:darkblue
+}
+header{ /*group selector */
+text-align: center;
+}
+aside{ /*group selector */
+    text-align: right;
+    color:black;
+    font-weight:bold;
+    
+    
+    footer{text-align:center}
+  
